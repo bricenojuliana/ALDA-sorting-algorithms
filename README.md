@@ -29,7 +29,7 @@ El objetivo de este proyecto es analizar y comparar el rendimiento de diferentes
 1. Clona este repositorio:
    ```sh
    git clone https://github.com/bricenojuliana/ALDA-sorting-algorithms.git
-   cd sorting-algorithms
+   cd ALDA-sorting-algorithms
    ```
 2. Crea un entorno virtual (opcional pero recomendado):
    ```sh
