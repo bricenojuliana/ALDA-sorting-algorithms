@@ -76,5 +76,5 @@ Los gráficos de rendimiento comparan el tiempo de ejecución de cada algoritmo 
 Puedes visualizar estos gráficos ejecutando el notebook o revisando la carpeta `images/`.
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo! 😃
+Este proyecto está bajo la licencia MIT. ¡Siéntete libre de usarlo y mejorarlo! 
 
